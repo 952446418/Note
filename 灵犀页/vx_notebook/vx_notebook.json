@@ -1,0 +1,20 @@
+{
+    "attachment_folder": "vx_attachments",
+    "config_mgr": "vx.vnotex",
+    "created_time": "2024-05-20T06:25:33Z",
+    "description": "",
+    "extra_configs": {
+    },
+    "history": [
+        {
+            "last_accessed_time": "2024-05-22T07:01:32Z",
+            "line_number": 0,
+            "path": "灵犀页.md"
+        }
+    ],
+    "image_folder": "vx_images",
+    "name": "灵犀页",
+    "tag_graph": "",
+    "version": 3,
+    "version_controller": "dummy.vnotex"
+}

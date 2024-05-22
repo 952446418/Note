@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-05-20T01:52:20Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-05-22T07:22:35Z",
+            "id": "4",
+            "modified_time": "2024-05-22T07:34:40Z",
+            "name": "岗位要求实例.md",
+            "signature": "27206039215419",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "工作"
+        }
+    ],
+    "id": "1",
+    "modified_time": "2024-05-20T01:52:20Z",
+    "signature": "79316877225172",
+    "version": 3
+}
